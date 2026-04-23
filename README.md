@@ -3,18 +3,30 @@
 ## 🚀 Features
 
 * Student-job matching system
-* Role-based authentication
-* Admin dashboard
+* Role-based authentication (Admin & Students)
+* Dashboard for tracking placements
 * Real-time updates
 
 ## 🛠 Tech Stack
 
-* React.js
-* Django REST Framework
+* Frontend: React.js
+* Backend: Django REST Framework
+* Database: MySQL / SQLite
 
-## 📦 Setup
+## 📦 Installation
 
 ```bash
 git clone https://github.com/karthikreddy802/placement-management-system
 cd placement-management-system
+pip install -r requirements.txt
+npm run dev
+python manage.py runserver
 ```
+
+## 📸 Screenshots
+
+(Add images here later)
+
+## 🔗 Project Link
+
+https://github.com/karthikreddy802/placement-management-system
